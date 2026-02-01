@@ -34,7 +34,7 @@ td {
 button {
   padding: 10px 18px;
   border: none;
-  background-color: rgb(208, 221, 21);
+  background-color: rgb(213, 220, 66);
   color: white;
   cursor: pointer;
   border-radius: 4px;
@@ -42,7 +42,7 @@ button {
 
 .page-number {
   padding: 10px 15px;
-  background: rgb(228, 224, 13);
+  background: rgb(213, 220, 66);
   color: white;
   border-radius: 4px;
 }
